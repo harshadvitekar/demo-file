@@ -1,2 +1,2 @@
 # demo-file
-This is the demo file for git and github
+This is the demo file for git and github.
